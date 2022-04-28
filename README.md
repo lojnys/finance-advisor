@@ -2,10 +2,9 @@
 
 this will receive expense information from TD in a form of CSV
 
-Purpose
-	- 
+## 1. Purpose 
 
-Progress
+## 2. Progress
 
    - Learn webscraping from Udemy in order to get information from TD
    in a form of CSV
