@@ -19,3 +19,8 @@
 - Learned how to use markdown
 - Noted the path that I want to be taking to complete the task (see Progress)
  
+**05/05/2022**
+- Decided not to use webscraping/webcrawling to get the transaction information
+- Rather, will be using TD (bank firm) API to get my account transaction information and display it with graph
+- [TD API website](https://developer.tdameritrade.com/apis)
+
